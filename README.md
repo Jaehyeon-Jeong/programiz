@@ -1,2 +1,3 @@
 # programiz
-programiz practics아ㅂ나더
+programiz practics입니다
+
