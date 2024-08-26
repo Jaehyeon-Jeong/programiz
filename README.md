@@ -1,2 +1,2 @@
 # programiz
-programiz practics
+programiz practics아ㅂ나더
