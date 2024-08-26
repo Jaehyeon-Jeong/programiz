@@ -1,2 +1,2 @@
 # programiz
-programiz practics
+let's programiz practics
